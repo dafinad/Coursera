@@ -1,3 +1,3 @@
-# IBM - Data Science
+# IBM - Python Project for Data Science
 
-Coursera Peer-graded Assignment - Data Science Ecosystem
+Final Assignment - Analyzing Historical Stock/ Revenue Data and Building a Dashboard
